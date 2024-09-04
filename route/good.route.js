@@ -1,5 +1,5 @@
 const express=require('express');
-const GoodModel=require('../model/Good.model');
+const GoodModel=require('../model/good.model');
 
 
 const goodRouter=express.Router();
